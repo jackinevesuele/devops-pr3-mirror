@@ -12,3 +12,6 @@
 - Git / GitHub
 - Python
 - Docker
+
+## Multi-remote test
+Изменения отправляются в основной репозиторий и зеркало.
